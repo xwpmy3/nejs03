@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-hello-world",
+  "version": "1.0.0",
+  "description": "node.js-hello-world",
+  "main": "index.js",
+  "author": "x1234567890d",
+  "repository": "https://github.com/x1234567890d/node-ws-test",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "http-proxy": "latest",
+    "ws": "^8.14.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
